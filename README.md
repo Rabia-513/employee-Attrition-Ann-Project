@@ -1,5 +1,3 @@
- **ANN-Based Employee Attrition Prediction**:
-
 
 # ANN-Based Employee Attrition Prediction
 
